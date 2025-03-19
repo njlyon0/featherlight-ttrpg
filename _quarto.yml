@@ -10,6 +10,7 @@ execute:
 
 website:
   title: "Featherlight TTRPG"
+  favicon: images/logo_lyon.png
   repo-url: https://github.com/njlyon0/featherlight-ttrpg
   repo-actions: [issue]
   navbar:
