@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to Featherlight!",
+    "objectID": "settings.html",
+    "href": "settings.html",
+    "title": "Example Settings",
     "section": "",
-    "text": "Featherlight is a rules-light, setting-neutral tabletop role-playing game (TTRPG). Featherlight is built to be as welcoming as possible for novice TTRPG players while still providing an enjoyable experience for more experienced players. This purpose also helps it be a great starting point for players interested in being the game master but intimidated by “crunchier” systems where it can feel impossible to know the rules well enough to be the arbiter of them in a game.\nIn short, Featherlight is built for you to take big narrative swings in whatever setting sparks the most joy for your table. Have fun and good luck!"
+    "text": "Just like with the rulebook, while the Featherlight system can be used in any setting it does make sense to pick one setting so players can ground their characters in a particular world and know the context in the world where their characters exist. You can absolutely use Featherlight in existing settings that you use for other TTRPGs but I felt it would be remiss to not include some settings unique to Featherlight to serve as a jumping-off point. Hope these settings spark your curiosity and get you excited to start playing the game!"
+  },
+  {
+    "objectID": "rulebook.html",
+    "href": "rulebook.html",
+    "title": "Featherlight Core Rulebook",
+    "section": "",
+    "text": "While Featherlight certainly tries to be rules-light, it wouldn’t be much of a TTRPG system if it had no rules at all. See below for details and note that I will be updating the attached file as it reaches certain milestones."
   },
   {
     "objectID": "design-team.html",
@@ -26,5 +33,19 @@
     "title": "Featherlight Design Team",
     "section": "Note on AI",
     "text": "Note on AI\nAI was not used in any facet of this work. Please respect this by not feeding any Featherlight content (from this website or elsewhere) into those systems. Thanks!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Featherlight!",
+    "section": "",
+    "text": "Featherlight is a rules-light, setting-neutral tabletop role-playing game (TTRPG). Featherlight is built to be as welcoming as possible for novice TTRPG players while still providing an enjoyable experience for more experienced players. This purpose also helps it be a great starting point for players interested in being the game master but intimidated by “crunchier” systems where it can feel impossible to know the rules well enough to be the arbiter of them in a game.\nIn short, Featherlight is built for you to take big narrative swings in whatever setting sparks the most joy for your table. Have fun and good luck!"
+  },
+  {
+    "objectID": "safety.html",
+    "href": "safety.html",
+    "title": "TTRPG Safety Tools",
+    "section": "",
+    "text": "When doing any sort of role-playing game, it is important to have some safety tools. This can be as simple as a conversation during “session zero” where you discuss the likely themes of the campaign or something more formal and systematized. I think these tools are under-discussed, especially relative to how beneficial they can be for maximizing the enjoyment of everyone at the table. Hopefully this document helps formalize things you’ve already known about and–maybe–introduces you to new tools!"
   }
 ]

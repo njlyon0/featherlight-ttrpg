@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://njlyon0.github.io/featherlight-ttrpg/index.html</loc>
-    <lastmod>2025-03-19T14:01:42.813Z</lastmod>
+    <loc>https://njlyon0.github.io/featherlight-ttrpg/settings.html</loc>
+    <lastmod>2025-03-19T14:13:26.973Z</lastmod>
+  </url>
+  <url>
+    <loc>https://njlyon0.github.io/featherlight-ttrpg/rulebook.html</loc>
+    <lastmod>2025-03-19T14:13:26.973Z</lastmod>
   </url>
   <url>
     <loc>https://njlyon0.github.io/featherlight-ttrpg/design-team.html</loc>
-    <lastmod>2025-03-19T14:01:42.812Z</lastmod>
+    <lastmod>2025-03-19T14:13:26.973Z</lastmod>
+  </url>
+  <url>
+    <loc>https://njlyon0.github.io/featherlight-ttrpg/index.html</loc>
+    <lastmod>2025-03-19T14:13:26.973Z</lastmod>
+  </url>
+  <url>
+    <loc>https://njlyon0.github.io/featherlight-ttrpg/safety.html</loc>
+    <lastmod>2025-03-19T14:13:26.973Z</lastmod>
   </url>
 </urlset>
