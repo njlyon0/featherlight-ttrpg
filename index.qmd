@@ -1,4 +1,4 @@
 ---
-title: "Welcome to _Featherlight_!"
+title: "Welcome to _Featherlight!_"
 ---
 
