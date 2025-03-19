@@ -1,0 +1,32 @@
+---
+title: "_Featherlight_ Design Team"
+---
+
+_Featherlight_ is the work of a small but dedicated team and an **invaluable** set of playtesters. This website will try to list everyone but please reach out to the design team lead if you feel that your contributions are not properly recognized!
+
+## Credits
+
+::::{.columns}
+:::{.column width="50%"}
+
+### Design Team
+
+**Design Lead** -- Nick Lyon
+
+**Additional Design & Editing** -- Brittany Cavazos
+
+**Illustrators** -- TBD
+
+:::
+:::{.column width="50%"}
+
+### Alpha Playtesters
+
+Angela Bunning, Bekka Cavazos, Tori Cavazos, Ky Cofield, Wade Dismukes, Marcy Palomino, Declan Price
+
+:::
+::::
+
+## Note on AI
+
+AI was not used in _any_ facet of this work. Please respect this by not feeding any _Featherlight_ content (from this website or elsewhere) into those systems. Thanks!

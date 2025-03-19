@@ -19,6 +19,8 @@ website:
       - text: "Home"
         href: index.qmd
     right: 
+      - text: "Design Team"
+        href: design-team.qmd
       - icon: github
         href: https://github.com/lter/workshop-quarto
   page-footer: 
