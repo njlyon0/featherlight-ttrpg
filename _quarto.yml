@@ -18,6 +18,12 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "Rulebook"
+        href: rulebook.qmd
+      - text: "Safety"
+        href: safety.qmd
+      - text: "Settings"
+        href: rulebook.qmd
     right: 
       - text: "Design Team"
         href: design-team.qmd
