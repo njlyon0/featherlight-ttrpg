@@ -22,7 +22,7 @@ website:
       - text: "Design Team"
         href: design-team.qmd
       - icon: github
-        href: https://github.com/lter/workshop-quarto
+        href: https://github.com/njlyon0/featherlight-ttrpg
   page-footer: 
     center: "Copyright 2025, Nicholas Lyon"
     background: secondary
