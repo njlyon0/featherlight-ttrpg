@@ -11,7 +11,7 @@ _Featherlight_ is the work of a small but dedicated team and an **invaluable** s
 
 ### Design Team
 
-**Design Lead** -- Nick Lyon
+**Design Lead** -- Nick Lyon | [{{< fa globe >}}](https://njlyon0.github.io/)
 
 **Additional Design & Editing** -- Brittany Cavazos
 
