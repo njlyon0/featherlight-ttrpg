@@ -23,7 +23,7 @@ website:
       - text: "Safety"
         href: safety.qmd
       - text: "Settings"
-        href: rulebook.qmd
+        href: settings.qmd
     right: 
       - text: "Design Team"
         href: design-team.qmd
