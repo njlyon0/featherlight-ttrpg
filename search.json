@@ -11,7 +11,7 @@
     "href": "settings.html#under-construction",
     "title": "Example Settings",
     "section": "Under Construction!",
-    "text": "Under Construction!\nI’m working on two example settings–one scifi set in space and another with a more traditional fantasy vibe–and will post those here once I have something more concrete to show."
+    "text": "Under Construction!\nI’m working on two example settings–one sci-fi set in space and another with a more traditional fantasy vibe–and will post those here once I have something more concrete to show."
   },
   {
     "objectID": "rulebook.html",
@@ -25,7 +25,7 @@
     "href": "rulebook.html#under-construction",
     "title": "Featherlight Core Rulebook",
     "section": "Under Construction!",
-    "text": "Under Construction!\nI’m so close to being ready to release a PDF (for free!) so just hang in there as I iron out the last few kinks in version 1.0!"
+    "text": "Under Construction!\nI’m so close to being ready to release a PDF (for free!/PWYW) so just hang in there as I iron out the last few kinks in version 1.0!"
   },
   {
     "objectID": "design-team.html",
@@ -39,14 +39,7 @@
     "href": "design-team.html#credits",
     "title": "Featherlight Design Team",
     "section": "Credits",
-    "text": "Credits\n\n\n\nDesign Team\nDesign Lead – Nick Lyon | \nAdditional Design & Editing – Brittany Cavazos\nIllustrators – TBD\n\n\n\nAlpha Playtesters\nAngela Bunning, Bekka Cavazos, Tori Cavazos, Ky Cofield, Wade Dismukes, Marcy Palomino, Declan Price"
-  },
-  {
-    "objectID": "design-team.html#note-on-ai",
-    "href": "design-team.html#note-on-ai",
-    "title": "Featherlight Design Team",
-    "section": "Note on AI",
-    "text": "Note on AI\nAI was not used in any facet of this work. Please respect this by not feeding any Featherlight content (from this website or elsewhere) into those systems. Thanks!"
+    "text": "Credits\n\n\n\nDesign Team\nDesign Lead – Nick J Lyon\nAdditional Design & Editing – Brittany Cavazos\nIllustrators – TBD\n\n\n\nAlpha Playtesters\nAngela Bunning, Bekka Cavazos, Tori Cavazos, Ky Cofield, Wade Dismukes, Marcy Palomino, Declan Price"
   },
   {
     "objectID": "index.html",
@@ -61,6 +54,13 @@
     "title": "Welcome to Featherlight!",
     "section": "Following Featherlight",
     "text": "Following Featherlight\nThis website is probably the best source of information about Featherlight but you can also check out the Tumblr blog ( tumblr.com/featherlight-ttrpg) for more updates.\nI’ll also be starting a Kickstarter soon to gather funds for commissioning an artist to illustrate the homebrew settings I’m working on so stay tuned for that!"
+  },
+  {
+    "objectID": "index.html#note-on-artificial-intelligence",
+    "href": "index.html#note-on-artificial-intelligence",
+    "title": "Welcome to Featherlight!",
+    "section": "Note on Artificial Intelligence",
+    "text": "Note on Artificial Intelligence\nAI was not used in any facet of this work. Please respect this by not feeding any Featherlight content (from this website or elsewhere) into those systems. Thanks!"
   },
   {
     "objectID": "safety.html",
