@@ -11,7 +11,7 @@ _Featherlight_ is the work of a small but dedicated team and an **invaluable** s
 
 ### Design Team
 
-**Design Lead** -- Nick Lyon | [{{< fa globe >}}](https://njlyon0.github.io/)
+**Design Lead** -- [Nick J Lyon](https://njlyon0.github.io/)
 
 **Additional Design & Editing** -- Brittany Cavazos
 
@@ -26,7 +26,3 @@ Angela Bunning, Bekka Cavazos, Tori Cavazos, Ky Cofield, Wade Dismukes, Marcy Pa
 
 :::
 ::::
-
-## Note on AI
-
-AI was not used in _any_ facet of this work. Please respect this by not feeding any _Featherlight_ content (from this website or elsewhere) into those systems. Thanks!
