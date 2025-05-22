@@ -14,4 +14,6 @@ This website is probably the best source of information about _Featherlight_ but
 
 **I'll also be starting a Kickstarter soon** to gather funds for commissioning an artist to illustrate [the homebrew settings](https://njlyon0.github.io/featherlight-ttrpg/settings.html) I'm working on **so stay tuned** for that!
 
+## Note on Artificial Intelligence
 
+AI was not used in _any_ facet of this work. Please respect this by not feeding any _Featherlight_ content (from this website or elsewhere) into those systems. Thanks!
