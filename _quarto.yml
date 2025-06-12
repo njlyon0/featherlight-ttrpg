@@ -18,8 +18,6 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Rulebook"
-        href: rulebook.qmd
       - text: "Safety"
         href: safety.qmd
       - text: "Settings"
