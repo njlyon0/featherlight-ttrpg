@@ -8,12 +8,24 @@ _Featherlight_ is a rules-light, setting-neutral tabletop role-playing game (TTR
 
 In short, **_Featherlight_ is built to be the backdrop for you to take big narrative swings in whatever setting sparks the most joy for your table**. Have fun and good luck!
 
-## Following _Featherlight_
-
-This website is probably the best source of information about _Featherlight_ but you can also check out the Tumblr blog ([{{< fa brands tumblr >}}  tumblr.com/featherlight-ttrpg](https://www.tumblr.com/featherlight-ttrpg)) for more updates.
-
-**I'll also be starting a Kickstarter soon** to gather funds for commissioning an artist to illustrate [the homebrew settings](https://njlyon0.github.io/featherlight-ttrpg/settings.html) I'm working on **so stay tuned** for that!
-
-## Note on Artificial Intelligence
+#### Note on Artificial Intelligence
 
 AI was not used in _any_ facet of this work. Please respect this by not feeding any _Featherlight_ content (from this website or elsewhere) into those systems. Thanks!
+
+## Following _Featherlight_
+
+This website is probably the best source of information about _Featherlight_ but you can also check out _Featherlight's_ {{< fa brands tumblr >}} Tumblr ([tumblr.com/featherlight-ttrpg](https://www.tumblr.com/featherlight-ttrpg)) for more updates. **I'll also be starting a Kickstarter soon** to gather funds for commissioning an artist to illustrate [the homebrew settings](https://njlyon0.github.io/featherlight-ttrpg/settings.html) that I'm working on so stay tuned for that!
+
+## Rulebook
+
+While _Featherlight_ certainly tries to be rules-light, it wouldn't be much of a TTRPG system if it had no rules at all. **I'm _so close_ to being ready to release a rulebook PDF (for free!/[PWYW](https://en.wikipedia.org/wiki/Pay_what_you_want)) so just hang in there as I iron out the last few kinks in version 1.0!**
+
+### Playtest Packet
+
+In the meantime, I've put together a playtest packet (one-page PDF) outlining the core structure of _Featherlight's_ mechanics. Please feel free to download it from [this {{< fa brands google-drive >}} Google Drive folder](https://drive.google.com/drive/u/0/folders/1sO61MZ8tYG-WcLlM7gu54VIYxzgjz9Gp) and use it to test out _Featherlight_ before the more formal rulebook is released.
+
+## Feedback
+
+If you've played a _Featherlight_ session, served as the game master, or even just read the playtest packet and want to share feedback: thank you! **_Featherlight_ is a labor of love and it can only be improved by hearing what worked (or didn't) in your experiences at home with the game.**
+
+For now, I'm collecting feedback using [an anonymous {{< fa brands google >}} Google Form](https://docs.google.com/forms/d/e/1FAIpQLScoJj94axFaDMChWS0IYLwef9Xh8JD1o3oavskA9cIXVddlyA/viewform?usp=dialog) so please feel free to share any positive or constructively critical feedback there. You can also message me on {{< fa brands tumblr >}} Tumblr ([\@featherlight-ttrpg](https://www.tumblr.com/featherlight-ttrpg)) if you'd rather have the chance for a back-and-forth conversation.
