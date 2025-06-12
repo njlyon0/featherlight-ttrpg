@@ -24,6 +24,10 @@ While _Featherlight_ certainly tries to be rules-light, it wouldn't be much of a
 
 In the meantime, I've put together a playtest packet (one-page PDF) outlining the core structure of _Featherlight's_ mechanics. Please feel free to download it from [this {{< fa brands google-drive >}} Google Drive folder](https://drive.google.com/drive/u/0/folders/1sO61MZ8tYG-WcLlM7gu54VIYxzgjz9Gp) and use it to test out _Featherlight_ before the more formal rulebook is released.
 
+### Character Sheet
+
+The critical information about a _Featherlight_ character can typically fit on an index card but a more formal character sheet can be a nice scaffold to help players quickly reference their vital information. A character sheet can be downloaded from the same [Google Drive folder](https://drive.google.com/drive/u/0/folders/1sO61MZ8tYG-WcLlM7gu54VIYxzgjz9Gp) as the playtest packet. Note that it is meant to be printed at about postcard dimensions (4"x6") so if you are printing at home you will likely be able to print two character sheets on the same 8.5"x11" piece of paper.
+
 ## Feedback
 
 If you've played a _Featherlight_ session, served as the game master, or even just read the playtest packet and want to share feedback: thank you! **_Featherlight_ is a labor of love and it can only be improved by hearing what worked (or didn't) in your experiences at home with the game.**
