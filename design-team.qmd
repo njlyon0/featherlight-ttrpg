@@ -9,20 +9,28 @@ _Featherlight_ is the work of a small but dedicated team and an **invaluable** s
 ::::{.columns}
 :::{.column width="50%"}
 
-### Design Team
+### Design  Lead
 
-**Design Lead** -- [Nick J Lyon](https://njlyon0.github.io/)
+Nick J Lyon | [{{< fa globe >}}](https://njlyon0.github.io/)
 
-**Additional Design & Editing** -- Brittany Cavazos
+### Character Artist
 
-**Illustrators** -- TBD
+TBD
+
+### Setting Artist
+
+TBD
 
 :::
 :::{.column width="50%"}
 
+### Additional Design & Editing
+
+Angela Bunning, Brittany Cavazos, Wade Dismukes, Josh Justison, Will Ruman, Gus Thies
+
 ### Alpha Playtesters
 
-Angela Bunning, Bekka Cavazos, Tori Cavazos, Ky Cofield, Wade Dismukes, Marcy Palomino, Declan Price
+Bekka Cavazos, Tori Cavazos, Ky Cofield, Marcy Palomino, Declan Price
 
 :::
 ::::
