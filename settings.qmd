@@ -4,6 +4,20 @@ title: "Example Settings"
 
 Just like with the rulebook, while the _Featherlight_ system can be used in any setting it does make sense to pick one setting so players can ground their characters in a particular world and know the context in the world where their characters exist. You can absolutely use _Featherlight_ in existing settings that you use for other TTRPGs but I felt it would be remiss to not include some settings unique to _Featherlight_ to serve as a jumping-off point. Hope these settings spark your curiosity and get you excited to start playing the game!
 
-## Under Construction!
+:::{.panel-tabset}
+### The Galactic Spiral
 
-I'm working on two example settings--one sci-fi set in space and another with a more traditional fantasy vibe--and will post those here once I have something more concrete to show.
+**Humanity has reached the stars.** Spacefaring technology has long since enabled people to colonize habitable worlds, terraform semi-habitable planets, and live out their days in countless self-contained space stations scattered throughout charted space. While the galactic spiral lacks any centralized authority, there are certainly factions with more localized power as well as their own motivations and goals.
+
+Humans--both augmented and "original recipe"--comprise the majority of the population and most have an affilitation with one of the **Guilds** that control a certain set of services.
+
+Sentient machine intelligences from the **Collective** are a relatively common sight though when they leave their digital enclaves to explore the physical world, they operate robotic bodies of highly variable form and function. 
+
+Reports of non-human aliens are also far from rare, especially on the fringes of the spiral though only the **Ralhion**--a species that somewhat resembles an Old Earth creature called an "octopus"--have formal relationships with humans and the Collective. In fact, the Ralhion were the ones who provided humans with jump drive technology when humanity was still trapped in their isolated home solar system; it was this technology that allowed humans, and eventually the Collective, to spread throughout the galatic spiral.
+
+### Adirilan
+
+Under Construction! Check back later.
+
+:::
+
