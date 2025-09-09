@@ -8,28 +8,44 @@ _Featherlight_ is a rules-light, setting-neutral tabletop role-playing game (TTR
 
 In short, **_Featherlight_ is built to be the backdrop for you to take big narrative swings in whatever setting sparks the most joy for your table**. Have fun and good luck!
 
-#### Note on Artificial Intelligence
+## Get Started
 
-AI was not used in _any_ facet of this work. Please respect this by not feeding any _Featherlight_ content (from this website or elsewhere) into those systems. Thanks!
+:::{.panel-tabset}
+### Core Rulebook
 
-## Following _Featherlight_
+**The core rulebook of _Featherlight_ is available now here: [njlyon0.itch.io/featherlight-ttrpg](https://njlyon0.itch.io/featherlight-ttrpg)!** 
 
-This website is probably the best source of information about _Featherlight_ but you can also check out _Featherlight's_ {{< fa brands tumblr >}} Tumblr ([tumblr.com/featherlight-ttrpg](https://www.tumblr.com/featherlight-ttrpg)) for more updates. **I'll also be starting a Kickstarter soon** to gather funds for commissioning an artist to illustrate [the homebrew settings](https://njlyon0.github.io/featherlight-ttrpg/settings.html) that I'm working on so stay tuned for that!
+It's PWYW ("pay what you want") but if your budget can support it, $5 would be amazing and would go to support me in commissioning artists for the two custom _Featherlight_ settings that I am working on.
 
-## Rulebook
+Once I have setting / character art, I'll be releasing new versions of the rulebook that include worldbuilding information and quest hooks for both settings as well as the lovely images that will help bring them to life.
 
-While _Featherlight_ certainly tries to be rules-light, it wouldn't be much of a TTRPG system if it had no rules at all. **I'm _so close_ to being ready to release a rulebook PDF (for free!/[PWYW](https://en.wikipedia.org/wiki/Pay_what_you_want)) so just hang in there as I iron out the last few kinks in version 1.0!**
+### Following _Featherlight_
 
-### Playtest Packet
+To stay up-to-date on _Featherlight_ news, you can:
 
-In the meantime, I've put together a playtest packet (one-page PDF) outlining the core structure of _Featherlight's_ mechanics. Please feel free to download it from [this {{< fa brands google-drive >}} Google Drive folder](https://drive.google.com/drive/u/0/folders/1sO61MZ8tYG-WcLlM7gu54VIYxzgjz9Gp) and use it to test out _Featherlight_ before the more formal rulebook is released.
+- Follow it on {{< fa brands tumblr >}} Tumblr ([tumblr.com/featherlight-ttrpg](https://www.tumblr.com/featherlight-ttrpg))
+- Consider becoming a patron on {{< fa brands patreon >}} Patreon ([patreon.com/c/ToothsomeGames](https://www.patreon.com/c/ToothsomeGames))
+- Check it out on {{< fa brands itch-io >}} itch.io ([njlyon0.itch.io/featherlight-ttrpg](https://njlyon0.itch.io/featherlight-ttrpg))
+- Or just keep an eye on this website!
+
+Patreon patrons get the additional perk of being listed by their username on the first page of the rulebook each time I release a new version of the rulebook.
 
 ### Character Sheet
 
-The critical information about a _Featherlight_ character can typically fit on an index card but a more formal character sheet can be a nice scaffold to help players quickly reference their vital information. A character sheet can be downloaded from the same [Google Drive folder](https://drive.google.com/drive/u/0/folders/1sO61MZ8tYG-WcLlM7gu54VIYxzgjz9Gp) as the playtest packet. Note that it is meant to be printed at about postcard dimensions (4"x6") so if you are printing at home you will likely be able to print two character sheets on the same 8.5"x11" piece of paper.
+You can use any piece of scratch paper as a character sheet for _Featherlight_ but if you'd prefer a more formal character sheet, download one [here](https://github.com/njlyon0/featherlight-ttrpg/blob/main/resources/featherlight_character-sheet.png). The download icon ({{< fa download >}}) is just above the top right corner of the image.
 
-## Feedback
+If you print this at home, do two sheets per standard piece of paper because the sheet is designed to be the size of a postcard (4 in x 6 in) so two should fit nicely on a 8.5 in x 11 in piece of paper.
 
-If you've played a _Featherlight_ session, served as the game master, or even just read the playtest packet and want to share feedback: thank you! **_Featherlight_ is a labor of love and it can only be improved by hearing what worked (or didn't) in your experiences at home with the game.**
+### Feedback
 
-For now, I'm collecting feedback using [an anonymous {{< fa brands google >}} Google Form](https://docs.google.com/forms/d/e/1FAIpQLScoJj94axFaDMChWS0IYLwef9Xh8JD1o3oavskA9cIXVddlyA/viewform?usp=dialog) so please feel free to share any positive or constructively critical feedback there. You can also message me on {{< fa brands tumblr >}} Tumblr ([\@featherlight-ttrpg](https://www.tumblr.com/featherlight-ttrpg)) if you'd rather have the chance for a back-and-forth conversation.
+If you've played a _Featherlight_ session, served as the game master, or even just read the rulebook and want to share feedback: thank you! **_Featherlight_ is a labor of love and it can only be improved by hearing what worked (or didn't) in your experiences at home with the game.**
+
+I'm collecting feedback using [an anonymous {{< fa brands google >}} Google Form](https://forms.gle/CdQuyWvWswuZVNEn6) so please feel free to share any feedback there. 
+
+If you'd prefer to have more of a dialog, message me on {{< fa brands tumblr >}} Tumblr ([\@featherlight-ttrpg](https://www.tumblr.com/featherlight-ttrpg)) and we can chat more back-and-forth.
+
+:::
+
+## Note on Artificial Intelligence
+
+AI was not used in _any_ facet of this work. Please respect this by not feeding any _Featherlight_ content (from this website or elsewhere) into those systems. Thanks!
