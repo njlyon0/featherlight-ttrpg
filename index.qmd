@@ -28,8 +28,8 @@ Once I have setting / character art, I'll be releasing new versions of the ruleb
 To stay up-to-date on _Featherlight_ news, you can:
 
 - Follow it on {{< fa brands tumblr >}} Tumblr ([tumblr.com/featherlight-ttrpg](https://www.tumblr.com/featherlight-ttrpg))
-- Consider becoming a patron on {{< fa brands patreon >}} Patreon ([patreon.com/c/ToothsomeGames](https://www.patreon.com/c/ToothsomeGames))
 - Check it out on {{< fa brands itch-io >}} itch.io ([njlyon0.itch.io/featherlight-ttrpg](https://njlyon0.itch.io/featherlight-ttrpg))
+- Consider becoming a patron on {{< fa brands patreon >}} Patreon ([patreon.com/c/ToothsomeGames](https://www.patreon.com/c/ToothsomeGames))
 - Or just keep an eye on this website!
 
 Patreon patrons get the additional perk of being listed by their username on the first page of the rulebook each time I release a new version of the rulebook.
