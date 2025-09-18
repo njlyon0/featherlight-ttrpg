@@ -13,7 +13,11 @@ In short, **_Featherlight_ is built to be the backdrop for you to take big narra
 :::{.panel-tabset}
 ### Core Rulebook
 
-**The core rulebook of _Featherlight_ is available now here: [njlyon0.itch.io/featherlight-ttrpg](https://njlyon0.itch.io/featherlight-ttrpg)!** 
+**The core rulebook of _Featherlight_ is available now!** Click the download link below to get the PDF from {{< fa brands itch-io >}} itch.io.
+
+<p align="center"/>
+<iframe frameborder="0" src="https://itch.io/embed/3873197?linkback=true" width="552" height="167"><a href="https://njlyon0.itch.io/featherlight-ttrpg">Featherlight TTRPG by Nick Lyon</a></iframe>
+</p>
 
 It's PWYW ("pay what you want") but if your budget can support it, $5 would be amazing and would go to support me in commissioning artists for the two custom _Featherlight_ settings that I am working on.
 
