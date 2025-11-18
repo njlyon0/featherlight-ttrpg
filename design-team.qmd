@@ -13,13 +13,11 @@ _Featherlight_ is the work of a small but dedicated team and an **invaluable** s
 
 Nick J Lyon | [{{< fa globe >}}](https://njlyon0.github.io/)
 
-### Character Artist
+### Art Credit
 
-TBD
-
-### Setting Artist
-
-TBD
+- **_Featherlight_ Logo:** Gabriel De La Rosa  | [{{< fa globe >}}](https://www.gabrieldelarosa.com/)
+- **Character Art:** TBD
+- **Setting Art:** TBD
 
 :::
 :::{.column width="50%"}
