@@ -44,12 +44,10 @@ If you print this at home, do two sheets per standard piece of paper because the
 
 If you've played a _Featherlight_ session, served as the game master, or even just read the rulebook and want to share feedback: thank you! **_Featherlight_ is a labor of love and it can only be improved by hearing what worked (or didn't) in your experiences at home with the game.**
 
-I'm collecting feedback using [an anonymous {{< fa brands google >}} Google Form](https://forms.gle/CdQuyWvWswuZVNEn6) so please feel free to share any feedback there. 
-
-If you'd prefer to have more of a dialog, message me on {{< fa brands tumblr >}} Tumblr ([\@featherlight-ttrpg](https://www.tumblr.com/featherlight-ttrpg)) and we can chat more back-and-forth.
+If you have feedback, please send me an email (nickjlyon \[at\] gmail \[dot\] com) or message me on {{< fa brands tumblr >}} Tumblr ([\@featherlight-ttrpg](https://www.tumblr.com/featherlight-ttrpg)) and we can chat!
 
 :::
 
 ## Note on Artificial Intelligence
 
-AI was not used in _any_ facet of this work. Please respect this by not feeding any _Featherlight_ content (from this website or elsewhere) into those systems. Thanks!
+**Generative AI was not used in <u>any</u> facet of this work.** Please respect this by not feeding any _Featherlight_ content (from this website or elsewhere) into those systems. Thanks!
