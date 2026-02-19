@@ -4,12 +4,12 @@ title: "_Featherlight_ Design Team"
 
 _Featherlight_ is the work of a small but dedicated team and an **invaluable** set of playtesters. This website will try to list everyone but please reach out to the design team lead if you feel that your contributions are not properly recognized!
 
+::::{.columns}
+:::{.column width="49%"}
 ### Design Lead
 
 Nick J Lyon -- [{{< fa globe >}}](https://njlyon0.github.io/)
 
-::::{.columns}
-:::{.column width="49%"}
 ### Artists
 
 - Galactic Spiral Characters: **Sami Briggs** -- [{{< fa globe >}}](https://samibriggs.carrd.co/)
@@ -27,6 +27,6 @@ Angela Bunning, Brittany Cavazos, Ky Cofield, Wade Dismukes, Erica Holdmore, Jos
 
 #### Alpha Playtesters
 
-Bekka Cavazos, Tori Cavazos, Marcy Palomino, Declan Price
+Angela Bunning, Bekka Cavazos, Tori Cavazos, Ky Cofield, Wade Dismukes, Marcy Palomino, Declan Price
 :::
 ::::
