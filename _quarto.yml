@@ -28,7 +28,7 @@ website:
       - icon: github
         href: https://github.com/njlyon0/featherlight-ttrpg
   page-footer: 
-    center: "Copyright 2025, Nicholas Lyon"
+    center: "Copyright &copy; 2026, Nicholas Lyon"
     background: secondary
 
 format:
