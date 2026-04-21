@@ -18,13 +18,7 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Safety"
-        href: safety.qmd
-      - text: "Settings"
-        href: settings.qmd
     right: 
-      - text: "Design Team"
-        href: design-team.qmd
       - icon: github
         href: https://github.com/njlyon0/featherlight-ttrpg
   page-footer: 
